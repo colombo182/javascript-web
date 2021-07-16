@@ -1,4 +1,4 @@
-# javascript-web
+# Javascript - Programando na linguagem da web
 
 Curso da Alura: "Javascript - Programando na linguagem da web"
 
